@@ -12,7 +12,7 @@ I'm a 2nd-year Computer Science student at VIT Bhopal, passionate about building
 ### 🛠️ Languages and Tools
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,python,c++,java,git,github,vscode,figma" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,python,cpp,java,git,github,vscode,figma" />
   </a>
 </p>
 
