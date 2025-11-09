@@ -1,16 +1,28 @@
-## Hi there 👋
+### Hi there 👋, I'm Rahul Kumar
 
-<!--
-**Rahul-kr1623/Rahul-kr1623** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a 2nd-year Computer Science student at VIT Bhopal, passionate about building responsive and user-friendly web applications.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on the **Gangabhumi Club Official Website**
+- 🌱 I’m currently learning **Advanced JavaScript & React**
+- 📫 How to reach me: [Connect on LinkedIn](https://www.linkedin.com/in/rahulkumar-web)
+- ⚡ Fun fact: I'm a huge cricket fan!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Languages and Tools
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,python,c,java,git,github,vscode,figma" />
+  </a>
+</p>
+
+---
+
+### 📊 My GitHub Stats
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api?username=Rahul-kr1623&show_icons=true&theme=radical" alt="Rahul's Github Stats" />
+</p>
+
+<p align="left">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Rahul-kr1623&theme=radical" alt="Rahul's Streak" />
+</p>
