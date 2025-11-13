@@ -24,5 +24,5 @@ I'm a 2nd-year Computer Science student at VIT Bhopal, passionate about building
 </p>
 
 <p align="left">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Rahul-kr1623&theme=radical" alt="Rahul's Streak" />
+<img src="https://streak-stats.demolab.com/?user=Rahul-kr1623&theme=radical" alt="Rahul's Streak" />
 </p>
