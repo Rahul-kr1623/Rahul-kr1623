@@ -110,6 +110,9 @@ I build web products that work in production — not just in demos.
   <a href="mailto:rahulkr23082006@gmail.com" target="_blank">
     <img src="https://img.icons8.com/plasticine/100/000000/gmail.png" width="50" alt="Gmail"/>
   </a>
+  <a href="https://www.instagram.com/rahulkr_1623/" target="_blank">
+    <img src="https://img.icons8.com/plasticine/100/000000/instagram-new.png" width="50" alt="Instagram"/>
+
   <a href="https://rahulkrportfolio.vercel.app" target="_blank">
     <img src="https://img.icons8.com/plasticine/100/000000/domain.png" width="50" alt="Portfolio"/>
   </a>
