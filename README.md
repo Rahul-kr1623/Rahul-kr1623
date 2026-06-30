@@ -19,7 +19,7 @@
 
 I build web products that work in production — not just in demos.
 
-- 🏢 Currently interning as a **Frontend Engineer @ GNB Motors** — shipping RBAC systems, geofencing engines, and onboarding flows for a fleet management SaaS platform
+- 🏢 Currently interning as a **Frontend Engineer @ GNB Motors** — shipping RBAC systems, geofencing engines, and onboarding flows for a B2B fleet management SaaS platform
 - ⚡ My stack is **React, TypeScript, Node.js** on the frontend with growing full-stack depth via Express, PostgreSQL & Socket.IO
 - 🚀 I care about metrics that matter: FCP, memory footprint, zero-failure event workflows
 - 🎓 B.Tech Computer Science @ **VIT Bhopal** · GPA: 8.45/10
@@ -56,7 +56,6 @@ I build web products that work in production — not just in demos.
 
 ### 🌐 Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
 ![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=flat&logo=framer&logoColor=white)
 ![Recharts](https://img.shields.io/badge/Recharts-22B5BF?style=flat&logo=recharts&logoColor=white)
